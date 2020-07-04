@@ -11,6 +11,8 @@ I believe in constant learning and growing.
   - :octocat: I'm a true batman fan.
   - :movie_camera: I enjoy watching good movies and series.
   
+ > It's not who I am underneath, it's what I do that defines me.
+  
 
 
 
