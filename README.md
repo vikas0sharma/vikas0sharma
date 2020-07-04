@@ -6,7 +6,7 @@ I believe in constant learning and growing.
 - 📫 How to reach me:
   - :e-mail: You can stop and say hello to me @ mailbox.viksharma@gmail.com 
   - :bird: follow me on twitter [@vikas5harma](https://twitter.com/vikas5harma)
-  - :books: Read my blogs on [medium](https://medium.com/@mailbox.viksharma)
+  - :books: Read my blogs on [medium](https://medium.com/@mailbox.viksharma) and [code project](https://www.codeproject.com/script/Membership/View.aspx?mid=11807614)
 - ⚡ Fun fact:
   - :octocat: I'm a true batman fan.
   - :movie_camera: I enjoy watching good movies and series.
