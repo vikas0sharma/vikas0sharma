@@ -1,4 +1,18 @@
-### Hi there 👋
+### 👋 Hello, I'm Vikas Sharma. 
+I'm a full-stack developer.
+I love programming, writing, learning and travelling. I have been in the field for nearly 6 years and have been loving every second of it.
+I believe in constant learning and growing. 
+
+- 📫 How to reach me:
+  - :e-mail: You can stop and say hello to me @ mailbox.viksharma@gmail.com 
+  - :bird: follow me on twitter [@vikas5harma](https://twitter.com/vikas5harma)
+  - :books: Read my blogs on [medium](https://medium.com/@mailbox.viksharma)
+- ⚡ Fun fact:
+  - :octocat: I'm a true batman fan.
+  - :movie_camera: I enjoy watching good movies and series.
+  
+
+
 
 <!--
 **vikas0sharma/vikas0sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
