@@ -1,3 +1,4 @@
+![bg](https://github.com/vikas0sharma/vikas0sharma/blob/master/bg.png?raw=true)
 ### 👋 Hello, I'm Vikas Sharma. 
 I'm a full-stack developer.
 I love programming, writing, learning and travelling. I have been in the field for nearly 6 years and have been loving every second of it.
@@ -13,7 +14,7 @@ I believe in constant learning and growing.
   
  > It's not who I am underneath, it's what I do that defines me.
   
-
+![bg](https://github.com/vikas0sharma/vikas0sharma/blob/master/bg_u.png?raw=true)
 
 
 <!--
