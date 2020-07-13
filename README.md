@@ -1,5 +1,7 @@
-![bg](https://github.com/vikas0sharma/vikas0sharma/blob/master/bg.png?raw=true)
-### 👋 Hello, I'm Vikas Sharma. 
+# 👋 Hello, I'm Vikas Sharma.
+
+![bgg](https://raw.githubusercontent.com/vikas0sharma/vikas0sharma/master/batman.gif)
+
 I'm a full-stack developer.
 I love programming, writing, learning and travelling. I have been in the field for nearly 6 years and have been loving every second of it.
 I believe in constant learning and growing. 
@@ -14,8 +16,6 @@ I believe in constant learning and growing.
   
  > It's not who I am underneath, it's what I do that defines me.
   
-![bg](https://github.com/vikas0sharma/vikas0sharma/blob/master/bg_u.png?raw=true)
-
 
 <!--
 **vikas0sharma/vikas0sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
