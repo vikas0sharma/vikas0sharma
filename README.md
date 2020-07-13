@@ -6,11 +6,11 @@ I'm a full-stack developer.
 I love programming, writing, learning and travelling. I have been in the field for nearly 6 years and have been loving every second of it.
 I believe in constant learning and growing. 
 
-- 📫 How to reach me:
+- 📫 __How to reach me:__
   - :e-mail: You can stop and say hello to me @ mailbox.viksharma@gmail.com 
   - :bird: follow me on twitter [@vikas5harma](https://twitter.com/vikas5harma)
   - :books: Read my blogs on [medium](https://medium.com/@mailbox.viksharma) and [code project](https://www.codeproject.com/script/Membership/View.aspx?mid=11807614)
-- ⚡ Fun fact:
+- ⚡ __Fun fact:__
   - :octocat: I'm a true batman fan.
   - :movie_camera: I enjoy watching good movies and series.
   
