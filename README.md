@@ -3,7 +3,7 @@
 ![bgg](https://github.com/vikas0sharma/vikas0sharma/blob/master/batman.gif)
 
 I'm a full-stack developer.
-I love programming, writing, learning and travelling. I have been in the field for nearly 6 years and have been loving every second of it.
+I love programming, writing, learning and travelling. I have been in the field for nearly 9 years and have been loving every second of it.
 I believe in constant learning and growing. 
   
 - 📫 __How to reach me:__
